@@ -48,9 +48,3 @@ These are directly accessible from the browser and can be imported using `<Image
 The main routing directory, depending on whether you're using **Pages Router** or **App Router**.
 
 - `index.tsx`: The homepage that displays listings using components like `Card` and `Button`.
-
----
-
-## 🛠️ How to Run the Project Locally
-
-Follow these steps to set up and run the app on your machine:
